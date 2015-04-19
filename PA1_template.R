@@ -1,5 +1,5 @@
 ## ----loading data------------
-
+unzip(zipfile="activity.zip")
 data <- read.csv("activity.csv")
 
 
